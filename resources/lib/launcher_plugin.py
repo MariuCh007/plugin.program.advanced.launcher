@@ -1263,7 +1263,8 @@ class Main:
                 else:
                     if (sys.platform == 'win32'):
                         if ( launcher["application"].split(".")[-1] == "lnk" ):
-                            os.system("start \"\" \"%s\"" % (launcher["application"]))
+                            #os.system("start \"\" \"%s\"" % (launcher["application"]))
+                            os.startfile(launcher["application"])
                         else:
                             if ( launcher["application"].split(".")[-1] == "bat" ):
                                 info = subprocess_hack.STARTUPINFO()
