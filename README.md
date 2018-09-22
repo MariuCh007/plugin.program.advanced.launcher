@@ -2,7 +2,7 @@
 This is an updated fork Angelscry's/SpiralCut's Advanced Launcher Kodi plugin.
 <h3>Updates since 1.13.2</h3>
 <ul>
-	<li>A modified way to run .lnk files on Windows.</li>
+	<li>A modified way to run .lnk files on Windows - removing the visible cmd.exe window.</li>
 	<li>The above modification has also been tested in Kodi 18 beta 2 (Leia)</li>
 </ul>
 
