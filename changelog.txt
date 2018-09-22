@@ -1,3 +1,7 @@
+[B]1.13.3[/B]
+. A modified way to run .lnk files on Windows.
+. The above modification has also been tested in Kodi 18 beta 2 (Leia)
+
 [B]1.13.2[/B]
 . Fix GameFAQs, MobyGames, TheGamesDB, arcadeHITS, and Google scrapers.
 . Update Google scraper to use new Google image sizes.
