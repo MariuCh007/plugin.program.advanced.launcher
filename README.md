@@ -6,7 +6,7 @@ This is an updated fork Angelscry's/SpiralCut's Advanced Launcher Kodi plugin.
 	<li>The above modification has also been tested in Kodi 18 beta 2 (Leia)</li>
 </ul>
 
-# Advanced Launcher 1.13.2 (Unofficial Release).
+<h3>Advanced Launcher 1.13.2 (Unofficial Release).</h3>
 This is an updated fork of Angelscry's/SpiralCut's Advanced Launcher Kodi plugin.  The only focus of these updates is to fix any issues caused by updates to Kodi or changes to the scraped websites APIs/designs.
 
 <h3>Updates since 1.13.1</h3>
