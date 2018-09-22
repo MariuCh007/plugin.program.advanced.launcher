@@ -20,7 +20,7 @@
         <description lang="en">[Unofficial release by MariuCh007 based off of original 1.13.2 release] Advanced Launcher allows you to start any Linux, Windows and OS X applications (with command line support or not) directly from the XBMC GUI. Advanced Launcher also give you the possibility to edit, download (from Internet resources) and manage all the meta-data (informations and images) related to these applications.</description>
         <description lang="fr">[Version non officielle de MariuCh007 basée sur la version 1.13.2 originale] Advanced Launcher permet de lancer toutes les applications Linux, Windows and OS X (avec support des lignes de commandes ou non) directement depuis l'interface d'XBMC. Advanced Launcher offre également la possibilité de modifier, télécharger (depuis les ressoures web) et de gérer toues les meta-donées (informations et images) relatives à ces applications.</description>
         <description lang="fi">[MariuCh007 epävirallinen julkaisu alkuperäisen 1.13.2 julkaisun perusteella] Advanced Launcherilla voit käynnistää XBMC:n käyttöliittymästä mitä tahansa sovelluksia. Käynnistettävistä sovelluksista voi hakea tietoja ja kuvia Internet-tietokannoista.</description>
-        <news>.A modified way to run .lnk files on Windows.
+        <news>. A modified way to run .lnk files on Windows.
 . Fix GameFAQs, MobyGames, TheGamesDB, arcadeHITS, and Google scrapers.
 . Update Google scraper to use new Google image sizes.
 . Remove AllGame (RIP), HTBackdrops (RIP), and ComicVine (bad API, quick bans) scrapers.
